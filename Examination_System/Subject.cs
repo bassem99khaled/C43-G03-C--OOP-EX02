@@ -265,6 +265,7 @@ namespace C43_G03_C__OOP_EX02.Examination_System
 
             Console.WriteLine($"Time taken: {SpanTime.TotalSeconds} seconds");
             
+
             #endregion
         }
     }
